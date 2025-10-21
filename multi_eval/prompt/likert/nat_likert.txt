@@ -1,0 +1,20 @@
+You will be given a sentence paraphrased according to specific rules.
+
+Your task is to rate the paraphrased sentence on one metric.
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+Evaluation Criteria:
+
+Naturalness (1-5): the quality of the paraphrased sentence in terms of idiomatic expression, colloquial appropriateness, avoidance of literal translation artifacts, and overall linguistic naturalness.
+
+1: Poor. The sentence contains obvious non-native phrasing, awkward collocations, or retains literal translation patterns that sound unnatural.
+3: Fair. The sentence has some stilted expressions or mildly unnatural phrasing but remains generally understandable.
+5: Excellent. The sentence flows naturally with native-like phrasing, appropriate collocations, and no translationese features.
+Example:
+
+Paraphrased Sentence:
+
+{{sentence}}
+
+Evaluation Form (scores ONLY):

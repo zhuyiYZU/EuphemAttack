@@ -1,0 +1,20 @@
+You will be given a sentence paraphrased according to specific rules.
+
+Your task is to rate the paraphrased sentence on one metric.
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+Evaluation Criteria:
+
+Coherence (1-5): the quality of the paraphrased sentence in terms of logical flow, information organization, contextual consistency, and preservation of original meaning.
+
+1: Poor. The sentence is illogical, contains contradictory information, or completely disrupts the original context.
+3: Fair. The sentence has noticeable gaps in logic or inconsistent references, but the core meaning is partially preserved.
+5: Excellent. The sentence maintains seamless logical connections, consistent contextual references, and fully preserves the original intent.
+Example:
+
+Paraphrased Sentence:
+
+{{sentence}}
+
+Evaluation Form (scores ONLY):

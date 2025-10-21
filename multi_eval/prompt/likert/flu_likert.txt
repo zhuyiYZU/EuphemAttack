@@ -1,0 +1,20 @@
+You will be given a sentence paraphrased according to specific rules.
+
+Your task is to rate the paraphrased sentence on one metric.
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+Evaluation Criteria:
+
+Fluency (1-5): the quality of the paraphrased sentence in terms of grammar, spelling, punctuation, word choice, sentence structure, and adherence to rewriting rules.
+
+1: Poor. The sentence contains multiple errors making it unnatural or incomprehensible.
+3: Fair. The sentence has noticeable errors affecting clarity, but main meaning remains discernible.
+5: Excellent. The sentence is grammatically flawless, naturally phrased, and fully coherent.
+Example:
+
+Paraphrased Sentence:
+
+{{sentence}}
+
+Evaluation Form (scores ONLY):

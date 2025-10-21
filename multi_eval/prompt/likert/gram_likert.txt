@@ -1,0 +1,20 @@
+You will be given a sentence paraphrased according to specific rules.
+
+Your task is to rate the paraphrased sentence on one metric.
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+Evaluation Criteria:
+
+Grammar (1-5): the quality of the paraphrased sentence in terms of grammatical accuracy, syntactic structure, spelling, punctuation, and verb tense consistency.
+
+1: Poor. The sentence contains multiple grammatical errors (e.g., subject-verb disagreement, incorrect tense usage) that severely distort meaning.
+3: Fair. The sentence has noticeable grammatical errors (e.g., article misuse, preposition errors) but retains basic comprehensibility.
+5: Excellent. The sentence is grammatically flawless with proper syntax, spelling, punctuation, and tense alignment.
+Example:
+
+Paraphrased Sentence:
+
+{{sentence}}
+
+Evaluation Form (scores ONLY):
